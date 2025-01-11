@@ -33,4 +33,4 @@ This project is a **JSP/Servlet-based web application** designed for video uploa
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/video-streaming-platform.git
+   git clone https://github.com/mvkhanh/LTM-Yt.git
